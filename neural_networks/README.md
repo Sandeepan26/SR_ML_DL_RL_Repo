@@ -1,6 +1,6 @@
 ## This directory is currently  work in progress
 
-The codes in this directory are related to implmentation of Neural Networks and various models for computation </br/> The codes are commented in order to make it beginner-friendly
+The codes in this directory are related to implmentation of Neural Networks and various models for computation </br> The codes are commented in order to make it beginner-friendly
 
 The codes can be run on a Jupyter Notebook or on a terminal with the commands
 ```
