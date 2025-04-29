@@ -13,5 +13,5 @@ To run the files normally on terminal
 python3 <file>.py
 ```
 
-Python version : 3.10 or above
+Python version : 3.10 or above </br>
 Pytorch version: 2.7 or above in case of latest release
