@@ -13,3 +13,5 @@ In case of using WSL, please make sure to use a Python Virtual Environment
 
 Python version : 3.10 or above </br>
 Pytorch version: 2.7 or above in case of latest release
+
+Reference: [Pytorch](https://pytorch.org/docs/stable/index.html)
