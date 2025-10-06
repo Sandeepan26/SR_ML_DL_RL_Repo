@@ -18,5 +18,8 @@ pip install gym[all]
 [Gym_Repository](https://github.com/openai/gym)
 
 
-*./cartpole has a basic cartpole environment creates using gym*
+*./cartpole has a basic cartpole environment creates using gym* <br/>
+
+*Added a custom environment to implement a simple Algorithm along with policy evaluation and iteration*
 *Algorithms related to Reinforcement Learning will be added incrementally as this is a work in progress*
+
